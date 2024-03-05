@@ -26,4 +26,11 @@ Sou extremamente dedicada em tudo que eu faço. 😄
 
 <img align="center" alt="Nathalia-azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
+<img align="center" alt="Nathalia-Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img align="center" alt="Nathalia-Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img align="center" alt="Nathalia-kubernetes" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+
 </div>
