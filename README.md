@@ -32,5 +32,6 @@ Sou extremamente dedicada em tudo que eu faço. 😄
 
 <img align="center" alt="Nathalia-kubernetes" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
+<img align="center" alt="Nathalia-Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 
 </div>
