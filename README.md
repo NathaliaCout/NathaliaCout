@@ -9,7 +9,8 @@ Gosto de desafios, pois sempre aprendo bastante com eles.
 Sou extremamente dedicada em tudo que eu faço. 😄
 
 
- ![Nathalia GitHub stats](https://github-readme-stats.vercel.app/api?username=NathaliaCout&show_icons=true&theme=radical)
+[![Nathalia GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/NathaliaCout?cardType=octocat&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
