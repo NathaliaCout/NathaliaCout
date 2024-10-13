@@ -46,10 +46,10 @@ Com a minha experiência como Cloud Engineer, possuo habilidades avançadas nas 
 - **ITIL® V4**: Foundation Certificate
 
 <a href="https://git.io/awesome-stats-card)">
-  <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/NathaliaCout?cardType=octocat&theme=radical&preferLogin=false" />
+  <img height=180 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/NathaliaCout?cardType=octocat&theme=radical&preferLogin=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCout&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 ### 💬 Vamos conversar:
