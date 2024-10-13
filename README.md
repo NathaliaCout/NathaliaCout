@@ -57,7 +57,8 @@ Sinta-se à vontade para me contatar, seja para colaborar em projetos de desenvo
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-coutinho-2121aaa1/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/368191177037709312)
-[![Email Badge](https://img.shields.io/badge/Email-EA4335?logo=Email&logoColor=fff&style=for-the-badge)](mailto:nathaliacoutinhob@hotmail.com)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nathaliacoutinhob@hotmail.com)
+
 
 
 
