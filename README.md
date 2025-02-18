@@ -6,7 +6,7 @@
 
 Sou formada em Ciência da Computação e apaixonada por tecnologia!
 
-Atualmente, estou iniciando minha jornada no Desenvolvimento e me desafiando a cada passo do caminho.
+Atualmente, estou iniciando minha jornada no DevOps, e me desafiando a cada passo do caminho.
 
 Gosto de enfrentar desafios, pois acredito que eles são uma grande oportunidade de aprendizado e crescimento. 😄
 
